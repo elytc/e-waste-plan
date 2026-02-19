@@ -1,0 +1,21 @@
+# .gitattributes file to manage line endings and file types
+# across different operating systems and tools.
+
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Markdown
+*.md text diff=markdown
+
+# Scripts
+*.sh text eol=lf
+
+# Windows-specific
+*.bat text eol=crlf
+
+# Binary - no line ending conversion
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
