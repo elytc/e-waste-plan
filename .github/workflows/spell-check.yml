@@ -28,6 +28,6 @@ jobs:
       # ============================================================
 
       - name: B1) Run spell check
-        uses: streetsidesoftware/cspell-action@v6
+        uses: streetsidesoftware/cspell-action@v8
         with:
           files: "**/*.md"
