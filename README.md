@@ -23,7 +23,7 @@ and technology skills.
 
 ## Getting Started
 
-1. Read the [Business Plan](BUSINESS_PLAN.mdBUSINESS_PLAN.md)
+1. Read the [Business Plan](BUSINESS_PLAN.md)
 2. Pick a section with ❓ marks or unchecked boxes
 3. Research the answers
 4. Submit a pull request with your updates
