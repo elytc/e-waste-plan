@@ -16,7 +16,7 @@ and technology skills.
 
 ## Documents
 
-- [Business Plan](e-waste-business-plan.md) — Our working plan (help us fill it in!)
+- [Business Plan](BUSINESS_PLAN.md) — Our working plan (help us fill it in!)
 - [Glossary](GLOSSARY.md) — Key terms and acronyms
 
 ## Getting Started
