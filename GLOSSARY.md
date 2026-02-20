@@ -32,7 +32,7 @@ Key terms and acronyms used in this project.
 | Data sanitization | Securely erasing all personal information from a device before recycling or resale |
 | Data wiping | See data sanitization |
 | Downstream | Where materials go after we collect them (our recycling partner, smelters, etc.) |
-| E-waste | Electronic waste — any discarded electrical or electronic device |
+| E-waste | Electronic waste - any discarded electrical or electronic device |
 | e-Stewards | A certification for recyclers that meet high environmental and social standards |
 | Freon | A brand name refrigerant chemical found in old appliances; requires certified handling for removal |
 | Hazardous material | Substances that can harm people or the environment if not handled properly (lead, mercury, cadmium) |
@@ -46,7 +46,7 @@ Key terms and acronyms used in this project.
 | Precious metals | Valuable metals like gold, silver, platinum, and palladium found in small quantities in electronics |
 | Pyrometallurgy | Using high heat (smelting) to extract metals from e-waste |
 | Refurbish | To repair, clean, and restore a used device so it can be used again |
-| Reverse logistics | The process of moving products backward through the supply chain — from consumer back to recycler |
+| Reverse logistics | The process of moving products backward through the supply chain - from consumer back to recycler |
 | Scrap metal | Metal recovered from disassembled electronics that can be sold to metal dealers |
 | Service area | The geographic region our program covers (Ely and surrounding communities) |
 | Staging area | The space where sorted e-waste is organized and stored before transport |
