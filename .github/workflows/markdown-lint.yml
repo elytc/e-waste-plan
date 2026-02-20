@@ -1,0 +1,34 @@
+# ============================================================
+# .github/workflows/markdown-lint.yml (Continuous Integration)
+# ============================================================
+# WHY-FILE: Validate repository Markdown files against markdownlint rules.
+
+name: Markdown Lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ============================================================
+      # ASSEMBLE: Get code and set up environment
+      # ============================================================
+
+      - name: A1) Checkout code
+        uses: actions/checkout@v6
+
+      # ============================================================
+      # === BASELINE CHECKS ===
+      # ============================================================
+
+      - name: B1) Run markdown lint
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: "**/*.md"

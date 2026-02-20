@@ -1,0 +1,33 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "cadmium",
+    "Darik's",
+    "DBAN",
+    "ecommerce",
+    "editorconfig",
+    "eStewards",
+    "ewaste",
+    "Freon",
+    "gitattributes",
+    "hydrometallurgy",
+    "IRRRB",
+    "lithium",
+    "MPCA",
+    "NIST",
+    "palletize",
+    "pyrometallurgy",
+    "RECA",
+    "refurbish",
+    "SIGCSE",
+    "WEEE"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    ".git",
+    "*.png",
+    "*.jpg",
+    "*.pdf"
+  ]
+}
