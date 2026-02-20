@@ -22,8 +22,15 @@ nowhere convenient to drop off old electronics. The nearest recycling
 centers may be hours away. That means devices pile up in garages,
 basements, and sheds - or worse, end up in the trash.
 
-Minnesota generates roughly 266 million pounds of e-waste per year,
-but only about 20-25% gets properly recycled.
+### Background
+
+> Minnesota generates roughly 266 million pounds of e-waste per year,
+> but only about 20-25% gets properly recycled.
+> Source: [RECA](https://reca-us.org/)
+
+> Right now, we are dumping or exporting the majority of valuable metals from our electronic waste.
+> If we recycle all of our e-waste in the State of Minnesota, we could create over 1,700 jobs.
+> Source: [RECA](https://reca-us.org/)
 
 ### Our Opportunity
 
@@ -328,9 +335,9 @@ What does winning look like? Let's track real numbers.
 
 ## 13. Resources and Links
 
+- [RECA](https://reca-us.org/) - Recycling Electronics for Climate Action (Minnesota org)
 - [MPCA Electronics Recycling](https://www.pca.state.mn.us/business-with-us/electronics-recycling) - Minnesota rules and registration
 - [MPCA Registered Recyclers](https://www.pca.state.mn.us/business-with-us/electronics-recyclers) - Find certified recycling partners
-- [RECA](https://reca-us.org/) - Recycling Electronics for Climate Action (Minnesota org)
 - [e-Stewards](https://e-stewards.org/) - Certification for responsible recyclers
 - [R2 Certification](https://sustainableelectronics.org/) - Another recycler certification standard
 - [NIST 800-88](https://csrc.nist.gov/pubs/sp/800-88/r1/final) - Guidelines for data sanitization
@@ -346,6 +353,3 @@ _Use this space to jot down ideas, questions, contacts, and anything else._
 > **Remember:** A business plan is a living document. Update it as you learn more.
 > Every ❓ you replace with a real answer makes this plan stronger.
 > Every checkbox you complete is real progress.
->
-> This plan was started by the Ely Tech Collaborative.
-> Last updated: \***\*\_\_\_\_\*\***

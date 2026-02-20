@@ -2,7 +2,6 @@
 
 ![Logo](images/logo_elytechcenter_digitalvoyagers.jpg)
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Markdown Lint](https://github.com/elytc/e-waste-plan/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/elytc/e-waste-plan/actions/workflows/markdown-lint.yml)
 [![Spell Check](https://github.com/elytc/e-waste-plan/actions/workflows/spell-check.yml/badge.svg)](https://github.com/elytc/e-waste-plan/actions/workflows/spell-check.yml)
 
@@ -36,5 +35,4 @@ When all edits are made in the browser,
 
 ## License
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+See [LICENSE.md](./LICENSE.md).

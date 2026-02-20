@@ -13,6 +13,7 @@ MD013: false   # Line length
 MD022: false   # Headings surrounded by blank lines
 MD024: false   # Duplicate headings
 MD026: false   # Trailing punctuation in headings
+MD028: false   # Blank line inside blockquote
 MD029: false   # Ordered list item prefix
 MD030: false   # Spaces after list markers
 MD032: false   # Lists surrounded by blank lines

@@ -16,7 +16,7 @@ Key terms and acronyms used in this project.
 | MPCA | Minnesota Pollution Control Agency | State agency that regulates e-waste collection and recycling |
 | NIST | National Institute of Standards and Technology | Federal agency that publishes technology guidelines |
 | R2 | Responsible Recycling | Certification standard for electronics recyclers |
-| RECA | Recycling Electronics for Climate Action | Minnesota nonprofit advocating for better e-waste recycling |
+| RECA-US | Recycling Electronics for Climate Action | Minnesota nonprofit advocating for better e-waste recycling |
 | WEEE | Waste Electrical and Electronic Equipment | European term for e-waste (used in international regulations) |
 
 ## Key Terms
@@ -25,6 +25,7 @@ Key terms and acronyms used in this project.
 | ---- | ---------- |
 | Cadmium | A toxic heavy metal found in rechargeable batteries and some circuit boards |
 | Certified recycler | A recycling company that meets recognized standards (R2 or e-Stewards) for safe, responsible processing |
+| Chain of custody | Documented tracking of devices from intake through final processing to ensure accountability |
 | Circuit board | The flat board inside electronics that holds chips, connectors, and other components; contains valuable metals |
 | Collection event | A scheduled time and place where community members can drop off e-waste |
 | Consolidation | Gathering enough e-waste in one place to make a transport trip cost-effective |
@@ -33,7 +34,7 @@ Key terms and acronyms used in this project.
 | Downstream | Where materials go after we collect them (our recycling partner, smelters, etc.) |
 | E-waste | Electronic waste — any discarded electrical or electronic device |
 | e-Stewards | A certification for recyclers that meet high environmental and social standards |
-| Freon | A refrigerant chemical found in old appliances; requires certified handling for removal |
+| Freon | A brand name refrigerant chemical found in old appliances; requires certified handling for removal |
 | Hazardous material | Substances that can harm people or the environment if not handled properly (lead, mercury, cadmium) |
 | Hydrometallurgy | Using liquid solutions (acids, bases) to extract metals from e-waste |
 | Intake | The process of receiving and logging devices when someone drops them off |
