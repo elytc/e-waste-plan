@@ -29,6 +29,6 @@ jobs:
       # ============================================================
 
       - name: B1) Run markdown lint
-        uses: DavidAnson/markdownlint-cli2-action@v19
+        uses: DavidAnson/markdownlint-cli2-action@v22
         with:
           globs: "**/*.md"
