@@ -2,8 +2,10 @@
 
 ![Logo](images/logo_elytechcenter_digitalvoyagers.jpg)
 
-[![Markdown Lint](https://github.com/elytc/e-waste-plan/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/elytc/e-waste-plan/actions/workflows/markdown-lint.yml)
-[![Spell Check](https://github.com/elytc/e-waste-plan/actions/workflows/spell-check.yml/badge.svg)](https://github.com/elytc/e-waste-plan/actions/workflows/spell-check.yml)
+[![Check Links](https://github.com/elytc/e-waste-plan/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/elytc/e-waste-plan/actions/workflows/links.yml)
+[![Markdown Lint](https://github.com/elytc/e-waste-plan/actions/workflows/markdown-lint.yml/badge.svg?branch=main)](https://github.com/elytc/e-waste-plan/actions/workflows/markdown-lint.yml)
+[![Spell Check](https://github.com/elytc/e-waste-plan/actions/workflows/spell-check.yml/badge.svg?branch=main)](https://github.com/elytc/e-waste-plan/actions/workflows/spell-check.yml)
+[![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)](https://github.com/elytc/e-waste-plan/security/)
 
 ## About
 
