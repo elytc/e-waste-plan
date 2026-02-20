@@ -340,7 +340,7 @@ What does winning look like? Let's track real numbers.
 - [MPCA Registered Recyclers](https://www.pca.state.mn.us/business-with-us/electronics-recyclers) - Find certified recycling partners
 - [e-Stewards](https://e-stewards.org/) - Certification for responsible recyclers
 - [R2 Certification](https://sustainableelectronics.org/) - Another recycler certification standard
-- [NIST 800-88](https://csrc.nist.gov/pubs/sp/800-88/r1/final) - Guidelines for data sanitization
+- [NIST 800-88](https://csrc.nist.gov/pubs/sp/800/88/r2/final) - Guidelines for media (data) sanitization
 
 ---
 
