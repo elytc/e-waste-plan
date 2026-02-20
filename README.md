@@ -1,6 +1,4 @@
-# Ely Tech Collaborative - Digital Voyagers E-Waste Initiative
-
-![Logo](images/logo_elytechcenter_digitalvoyagers.jpg)
+# Ely Community Resource: E-Waste Initiative
 
 [![Check Links](https://github.com/elytc/e-waste-plan/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/elytc/e-waste-plan/actions/workflows/links.yml)
 [![Markdown Lint](https://github.com/elytc/e-waste-plan/actions/workflows/markdown-lint.yml/badge.svg?branch=main)](https://github.com/elytc/e-waste-plan/actions/workflows/markdown-lint.yml)
@@ -27,13 +25,6 @@ and technology skills.
 2. Pick a section with ❓ marks or unchecked boxes
 3. Research the answers
 4. Submit a pull request with your updates
-
-## Tools
-
-This repo recommends VS Code extensions for spell checking,
-markdown formatting, and editor consistency.
-They are only needed when working on the repo on a local machine.
-When all edits are made in the browser,
 
 ## License
 
